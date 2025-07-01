@@ -1,6 +1,6 @@
 # 🧠 SISTEM PEMERINGKATAN RISIKO STUNTING BALITA BERDASARKAN KLASIFIKASI STATUS GIZI DENGAN METODE NAIVE BAYES DAN SAW 
 
-![Screenshot 2025-06-22 005950](https://github.com/user-attachments/assets/69816d27-6d42-4e9b-99eb-472820fef4ab)
+![Screenshot 2025-06-28 162729](https://github.com/user-attachments/assets/c281ca4f-2a93-4cfc-9767-74e401c80af9)
 
 Web aplikasi ini dikembangkan untuk mendeteksi risiko **stunting pada balita** berdasarkan data antropometri (berat badan, tinggi badan, umur, IMT) menggunakan **Metode Naive Bayes** untuk klasifikasi status gizi dan **Metode SAW (Simple Additive Weighting)** untuk perangkingan risiko stunting.
 
